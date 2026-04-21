@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ahmed Ali",
+      "email": "ahmed@shopzone.com",
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "name": "Sara Admin",
+      "email": "sara@shopzone.com",
+      "password": "abcdefgh",
+      "role": "admin"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "18K Gold Layered Necklace",
+      "price": 1400,
+      "category": "Jewelry",
+      "stock": 8,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638"
+    },
+    {
+      "id": 2,
+      "name": "Minimal White Shirt",
+      "price": 900,
+      "category": "Clothing",
+      "stock": 12,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b"
+    },
+    {
+      "id": 3,
+      "name": "Minimal Ceramic Vase",
+      "price": 750,
+      "category": "Home Decor",
+      "stock": 11,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": 4,
+      "name": "Minimal Gold Necklace",
+      "price": 600,
+      "category": "Accessories",
+      "stock": 10,
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338"
+    },
+    {
+      "id": 5,
+      "name": "Modern Table Lamp",
+      "price": 1200,
+      "category": "Home Decor",
+      "stock": 4,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511"
+    },
+    {
+      "id": 6,
+      "name": "Minimalist Ring Set",
+      "price": 650,
+      "category": "Jewelry",
+      "stock": 16,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e"
+    },
+    {
+      "id": 7,
+      "name": "Elegant Chain Anklet",
+      "price": 520,
+      "category": "Jewelry",
+      "stock": 11,
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36"
+    },
+    {
+      "id": 8,
+      "name": "Luxury Gold Watch Bracelet",
+      "price": 2100,
+      "category": "Jewelry",
+      "stock": 6,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a"
+    },
+    {
+      "id": 9,
+      "name": "Silk Scarf Premium",
+      "price": 680,
+      "category": "Clothing",
+      "stock": 15,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": 10,
+      "name": "Premium Sunglasses",
+      "price": 1100,
+      "category": "Accessories",
+      "stock": 13,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 11,
+      "name": "Silk Scarf Premium",
+      "price": 680,
+      "category": "Clothing",
+      "stock": 15,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1583845112203-29329902332e?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "cart": [],
+  "orders": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
